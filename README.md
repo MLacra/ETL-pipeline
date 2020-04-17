@@ -40,13 +40,6 @@ The overview of the used data can be seen in the bellow chart:
 
 * Go to http://0.0.0.0:3001/
 
-
-## Results 
-
-The results of the code are presented inline as plots. 
-A brief discussion on the results can be found [here](https://medium.com/@mlacra/data-science-insights-2019-60e916d7e120?sk=370fcb0edf2fbb69b01b1f16ae31c89a).
-
 ## Licensing, Authors, Acknowledgements
 
-Must give credit to [Kaggle](https://www.kaggle.com) for the data. 
-You can find the Licensing for the data and other descriptive information at the respective websites. Otherwise, feel free to use the code here as you would like!
+Must give credit to Figure Eight for the data. Feel free to use the code provided here as you would like!
