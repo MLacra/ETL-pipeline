@@ -26,7 +26,7 @@ The overview of the used data can be seen in the bellow chart:
 
 * _app_ : The files in the _app_ folder are used to run the web application (as seen in the above screenshot). 
 
-* _notebooks_ : The two notebooks provided in the _notebooks_ folder contain the same code as the python scripts in the _app/data_ and _app/models_ folders, but they are structured in a step-by-step manner to process the data in an ETL pipeline, and then to train, evaluate and save the Machine Learning model, respectively.
+* _notebooks_ : The two provided jupyter notebooks contain the same code as the python scripts in the _app/data_ and _app/models_ folders, but they are structured in a step-by-step manner to process the data in an ETL pipeline, and then to train, evaluate and save the Machine Learning model, respectively.
 
 * _figures_: contains the two images in the README file. 
 
