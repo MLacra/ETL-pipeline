@@ -42,4 +42,4 @@ The overview of the used data can be seen in the bellow chart:
 
 ## Licensing, Authors, Acknowledgements
 
-Must give credit to Figure Eight for the data. Feel free to use the code provided here as you would like!
+Must give credit to Figure Eight for the data and the stub files were provided through Udacity Data Science Nanodegree. 
