@@ -17,17 +17,18 @@ The project uses scikit-learn and nltk with Python 3.*. A way to install the two
 `conda install -c anaconda nltk`
 
 ## Data
-The data (and code) can be accessed within the repository in the app/data. The two csv files were provided by figure8 in partnership with Udacity for the Data Science Nanodegree.
+The data (and code) can be accessed within the repository in the _app/data_. The two csv files were provided by figure8 in partnership with Udacity for the Data Science Nanodegree.
 The overview of the used data can be seen in the bellow chart:
 
 ![Training Data Overview](figures/pie-chart-messages.png)
 
 ## Files
 
-The files in the _app_ folder are used to run the web application (as seen in the above screenshot). 
+* _app_ : The files in the _app_ folder are used to run the web application (as seen in the above screenshot). 
 
-The two notebooks provided in the _notebooks_ folder contain the same code as the python scripts in the _app/data_ and _app/models_ folders, but they are structured in a step-by-step manner to process the data in an ETL pipeline, and then to train, evaluate and save the Machine Learning model, respectively.
+* _notebooks_ : The two notebooks provided in the _notebooks_ folder contain the same code as the python scripts in the _app/data_ and _app/models_ folders, but they are structured in a step-by-step manner to process the data in an ETL pipeline, and then to train, evaluate and save the Machine Learning model, respectively.
 
+* _figures_: contains the two images in the README file. 
 
 ## Running the App
 
